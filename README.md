@@ -18,6 +18,7 @@ Vou deixar listados alguns pontos para se atentar quando forem estudar:
 
 5.  Transações: Uma materia facil que usa escalonamento de execuções dentro de um disco, porém se atentem quando falar de bloqueios, grafo de precedência e 2PL.
 
+## Dica
 Em si as provas não são longes do que é cobrado ( montagem de diagramas contagem de blocos, escalonamento e tudo que disse acima). Mas a dica mais importante em banco de dados
 NÃO DEIXEM DE SE AUTO-AVALIAR me enrolei nessa materia por simplesmente não tirar 2 minutos por semana e não preencher o forms.
 
