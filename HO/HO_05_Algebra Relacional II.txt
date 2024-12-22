@@ -1,0 +1,10 @@
+/*
+π first_name,last_name (directors) ∩ π first_name,last_name (actors)
+
+π first_name, last_name (actors) - π first_name,last_name(directors)
+
+π first_name, last_name (actors) ∪ π first_name, last_name (directors)
+
+π name (movies) - π name (movies⋈ id.movies =movies_directors.movie_id 
+movies_directors)
+*/

@@ -1,0 +1,8 @@
+π nome, sobrenome (σ sexo = 'F'(Atores))
+π nome (σ ano > 1999(Filmes))
+π nome_filme, nome_diretor (Filmes)
+π nome_filme, nome_ator, papel (σ ranking > 6 (Participacoes))
+π nome_diretor, COUNT(nome_filme) → numero_filmes (Filmes)
+π genero, AVG(ranking) → ranking_medio, MIN(ranking) → ranking_minimo,
+ MAX(ranking) → ranking_maximo (γ genero; AVG(ranking) → ranking_medio,
+ MIN(ranking) → ranking_minimo, MAX(ranking) → ranking_maximo (Filmes))

@@ -1,0 +1,41 @@
+Atores (10.000 registros)
+ 11 registros por bloco
+Espaço desperdiçado por bloco 112 bytes
+Espaço total: 1.863.680 bytes 
+
+Clientes (100.000 registros)
+ 5 registros por bloco
+Espaço desperdiçado por bloco: 48 bytes
+Espaço total: 40.960.000 bytes 
+
+Filmes (2.000.000 registros)
+ 8 registros por bloco
+
+Espaço desperdiçado por bloco: 0 bytes
+Espaço total: 512.000.000 bytes
+Funcionarios (3.500 registros)
+11 registros por bloco
+
+Espaço desperdiçado por bloco: 167 bytes
+Espaço total: 653.312 bytes
+
+Midias (10.000.000 registros)
+28 registros por bloco
+Espaço desperdiçado por bloco: 32 bytes
+Espaço total: 731.428.864 bytes
+
+Aluguel (20.000.000 registros)
+ 22 registros por bloco
+Espaço desperdiçado por bloco: 24 bytes
+Espaço total: 1.861.818.368 bytes 
+
+Pagamentos (50.000.000 registros)
+ 15 registros por bloco
+Espaço desperdiçado por bloco: 83 bytes
+Espaço total: 6.826.668.032 bytes
+
+AtoresEmFilmes (1.000.000 registros)
+ 64 registros por bloco
+
+Espaço desperdiçado por bloco: 0 bytes
+Espaço total: 32.000.000 bytes

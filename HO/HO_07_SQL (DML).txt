@@ -1,0 +1,19 @@
+
+SELECT first_name, last_name
+FROM actors
+where gender = 'F'
+
+
+SELECT name
+FROM movies
+where year > 1999
+
+ 
+
+SELECT 
+    movies.name AS movie_name,
+    CONCAT(directors.first_name, ' ', directors.last_name) AS director_name
+FROM 
+    movies
+JOIN 
+    directors ON movies.id = directors.id;
