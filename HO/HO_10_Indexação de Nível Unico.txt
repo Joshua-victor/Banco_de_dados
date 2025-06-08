@@ -1,7 +1,7 @@
 1-Atores
 Chave Primária: Código (16B).
 Entradas por bloco: 64.
-Número de blocos: 158 blocos.
+Número de blocos: 157 blocos.
 Espaço total gasto: 323584B
 
 2. Clientes
